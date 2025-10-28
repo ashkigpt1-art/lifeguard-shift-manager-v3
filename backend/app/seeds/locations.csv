@@ -1,0 +1,17 @@
+name,difficulty,is_water,active_today
+دیدبان,hard,FALSE,TRUE
+موج 1,hard,FALSE,TRUE
+موج 2,hard,FALSE,TRUE
+رودخانه1,medium,FALSE,TRUE
+رودخانه2,easy,FALSE,TRUE
+رودخانه3,medium,FALSE,TRUE
+سرعتی(آب),medium,TRUE,TRUE
+سرعتی(صندلی),medium,FALSE,TRUE
+آهسته (آب),medium,TRUE,TRUE
+کودکان,medium,FALSE,TRUE
+بزرگسالان1,medium,FALSE,TRUE
+بزرگسالان2,easy,FALSE,TRUE
+چاله (آب),medium,TRUE,TRUE
+فاز4 (آب),medium,TRUE,TRUE
+سونا1,medium,FALSE,TRUE
+سونا2,easy,FALSE,TRUE
