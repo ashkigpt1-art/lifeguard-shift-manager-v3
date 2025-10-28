@@ -11,9 +11,9 @@ export default {
         surfaceAlt: "#131a21",
         text: "#e6edf3",
         muted: "#94a3b8",
-        accent: "#22d3ee"
-      }
-    }
+        accent: "#22d3ee",
+      },
+    },
   },
-  plugins: [rtlPlugin]
+  plugins: [rtlPlugin],
 };
