@@ -15,5 +15,5 @@ export default {
       }
     }
   },
-  plugins: [rtlPlugin()]
+  plugins: [rtlPlugin]
 };
